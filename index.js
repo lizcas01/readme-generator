@@ -27,16 +27,6 @@ const questions = [
         message: "Provide any instructions for using your project."
     },
     {
-        type: "input",
-        name: "contribution",
-        message: "How can other developers contribute to your projects?",
-    },
-    {
-        type: "input",
-        name: "tests",
-        message: "Are there any instructions for testing your projects?",
-    },
-    {
         type: "list",
         name: "license",
         message: "Please choose a license for this project.",
@@ -53,6 +43,17 @@ const questions = [
             'None',
         ]
     },
+    {
+        type: "input",
+        name: "contribution",
+        message: "How can other developers contribute to your projects?",
+    },
+    {
+        type: "input",
+        name: "tests",
+        message: "Are there any instructions for testing your projects?",
+    },
+
     {
         type: "input",
         name: "username",
