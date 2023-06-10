@@ -18,15 +18,14 @@
   Clone the SSH or HTTPS.
 
   ## Usage 
-  Answer the questions given in the terminal.
-
+  Answer the questions given in the terminal or follow the video.
   https://drive.google.com/file/d/1ZMhRRfi8X5Uead20FyvXNNq5GoSkXxBl/view?usp=sharing
 
   ## Contributing 
   Download this code to make your Readme files.
 
   ## Tests
-  None.
+  N/A.
 
   ## Questions 
   For any questions, contact me at: lizbethcastro010@gmail.com
